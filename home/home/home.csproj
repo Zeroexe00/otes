@@ -139,7 +139,6 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
-      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -152,23 +151,10 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <None Include="App.config">
-      <SubType>Designer</SubType>
-    </None>
+    <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Icons\" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="recursos\ArrowRight-16.png" />
-    <Content Include="recursos\edit-clear.png" />
-    <Content Include="recursos\icon-search.png" />
-    <Content Include="recursos\icon_cancel.gif" />
-    <Content Include="recursos\pencil-16.png" />
-    <Content Include="recursos\plus-square-16.png" />
-    <Content Include="recursos\save-16.png" />
-    <Content Include="recursos\search-16.png" />
-    <Content Include="recursos\trash-16.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

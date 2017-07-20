@@ -26,20 +26,3 @@ C:\Users\Chapita\Documents\Visual Studio 2015\Projects\Proyecto-OTEC-master\home
 C:\Users\Chapita\Documents\Visual Studio 2015\Projects\Proyecto-OTEC-master\home\home\obj\Debug\home.ListaProfesores.resources
 C:\Users\Chapita\Documents\Visual Studio 2015\Projects\Proyecto-OTEC-master\home\home\obj\Debug\home.ListaCursos.resources
 C:\Users\Chapita\Documents\Visual Studio 2015\Projects\Proyecto-OTEC-master\home\home\obj\Debug\home.ListaAlumnos.resources
-C:\Users\Exequiel\Desktop\Taller.NET\Proyecto-OTEC-master\home\home\bin\Debug\home.exe.config
-C:\Users\Exequiel\Desktop\Taller.NET\Proyecto-OTEC-master\home\home\obj\Debug\home.exe
-C:\Users\Exequiel\Desktop\Taller.NET\Proyecto-OTEC-master\home\home\obj\Debug\home.pdb
-C:\Users\Exequiel\Desktop\Taller.NET\Proyecto-OTEC-master\home\home\obj\Debug\home.csprojResolveAssemblyReference.cache
-C:\Users\Exequiel\Desktop\Taller.NET\Proyecto-OTEC-master\home\home\obj\Debug\home.Form1.resources
-C:\Users\Exequiel\Desktop\Taller.NET\Proyecto-OTEC-master\home\home\obj\Debug\home.ListaAlumnos.resources
-C:\Users\Exequiel\Desktop\Taller.NET\Proyecto-OTEC-master\home\home\obj\Debug\home.ListaCursos.resources
-C:\Users\Exequiel\Desktop\Taller.NET\Proyecto-OTEC-master\home\home\obj\Debug\home.ListaProfesores.resources
-C:\Users\Exequiel\Desktop\Taller.NET\Proyecto-OTEC-master\home\home\obj\Debug\home.NuevoCurso.resources
-C:\Users\Exequiel\Desktop\Taller.NET\Proyecto-OTEC-master\home\home\obj\Debug\home.ListaSalas.resources
-C:\Users\Exequiel\Desktop\Taller.NET\Proyecto-OTEC-master\home\home\obj\Debug\home.NuevaSala.resources
-C:\Users\Exequiel\Desktop\Taller.NET\Proyecto-OTEC-master\home\home\obj\Debug\home.NuevoAlumno.resources
-C:\Users\Exequiel\Desktop\Taller.NET\Proyecto-OTEC-master\home\home\obj\Debug\home.NuevoProfesor.resources
-C:\Users\Exequiel\Desktop\Taller.NET\Proyecto-OTEC-master\home\home\obj\Debug\home.Properties.Resources.resources
-C:\Users\Exequiel\Desktop\Taller.NET\Proyecto-OTEC-master\home\home\obj\Debug\home.csproj.GenerateResource.Cache
-C:\Users\Exequiel\Desktop\Taller.NET\Proyecto-OTEC-master\home\home\bin\Debug\home.exe
-C:\Users\Exequiel\Desktop\Taller.NET\Proyecto-OTEC-master\home\home\bin\Debug\home.pdb
